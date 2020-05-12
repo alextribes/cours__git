@@ -1,5 +1,6 @@
 tmp/todo.txt
 tmp/*
+*.txt
 *.pdf
 *.zip
 hello_description.html
